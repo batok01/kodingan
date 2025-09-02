@@ -25,8 +25,8 @@
         android:layout_height="wrap_content"
         android:text="Logout"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="#FF5252"
-        android:textColor="#FFFFFF" />
+        android:backgroundTint="#FFFFFF"
+        android:textColor="#2196F3" />
 
     <Button
         android:id="@+id/btnCust"
